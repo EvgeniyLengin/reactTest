@@ -1,8 +1,8 @@
 import React from 'react';
-
+import mod from "./../css/Profile.module.css"
 let Profile = () => {
     return(
-        <div className="contentz">
+        <div className={mod.contentz}>
 
             <div>
                 <img src="https://rugeroi.ru/wp-content/uploads/2016/09/prir-9890810948246387.jpg" alt=""/>

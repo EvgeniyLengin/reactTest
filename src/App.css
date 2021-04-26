@@ -15,20 +15,5 @@
     max-width: 100%;
 }
 
-.header {
-    grid-area: hd;
-    background-color: green;
-}
-.header img {
-    max-width: 30px;
-    width: 100%;
-}
-.nav {
-    grid-area: nv;
-    background-color: bisque;
-}
 
-.contentz {
-    grid-area: ct;
-    background-color: blue;
-}
+
