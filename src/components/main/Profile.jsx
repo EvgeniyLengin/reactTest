@@ -1,5 +1,5 @@
 import React from 'react';
-import mod from "./../css/Profile.module.css"
+import mod from "./Profile.module.css"
 let Profile = () => {
     return(
         <div className={mod.contentz}>

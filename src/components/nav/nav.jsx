@@ -1,5 +1,5 @@
 import React from "react";
-import  mod from "./../css/Nav.module.css"
+import  mod from "./Nav.module.css"
 let Nav = () => {
     return (
         <nav className={mod.nav}>
